@@ -1,2 +1,3 @@
 # The-Book-Look
- An online book store
+ The Book Look is an online web application where the customer can purchase books online. Customers can use a web browser to search for books by title or author, add those books to their shopping carts, and then buy them.
+The Book Look application enables vendor to setup online bookstore, customers to browse through the books, and a system administrator to approve and reject requests for new books and maintain lists of book categories. The fundamental goal of "The Book Look" is to convey the spirit of an online bookstore using a straightforward but effective medium. The project has been designed to simulate the working of an actual online bookstore.
