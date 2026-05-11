@@ -198,7 +198,7 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-Developed by **[Your Name]**
+Developed by **Rutvij A**
 
 ---
 
